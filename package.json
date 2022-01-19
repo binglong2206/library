@@ -1,0 +1,25 @@
+{
+  "name": "library",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhey101/library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhey101/library/issues"
+  },
+  "homepage": "https://github.com/jasonhey101/library#readme"
+}

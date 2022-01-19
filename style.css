@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.displayContainer {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+
+.book {
+  display: flex;
+  justify-content: center;
+  background-color: lightblue;
+  border-style: solid;
+  margin: 20px 20px 0px 20px;
+  width: 250px;
+  height: 250px;
+}
+
+input:valid {
+  border: 4px solid lightgreen;
+}
+
+input:invalid {
+  border: 2px dashed red;
+}
